@@ -2,10 +2,8 @@
 """
 function for empty class BaseGeometry
 """
-
-
 def BaseGeometry:
     """
     empty
     """
-    return
+    pass
