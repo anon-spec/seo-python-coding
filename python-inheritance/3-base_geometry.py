@@ -5,5 +5,5 @@ function for empty class BaseGeometry
 
 
 def BaseGeometry:
-    """empty class"""
+    """empty"""
     pass
