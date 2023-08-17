@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 """
-function for  class BaseGeometry
+function for class BaseGeometry
 """
 
 
 class BaseGeometry:
-    """ finds area and value of shape """
+    """
+    finds area and value of shape
+    """
     
     def area(self):
         """Area of self"""
