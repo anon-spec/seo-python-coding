@@ -6,7 +6,7 @@ class BaseGeometry:
     """
     finds area and value of shape
     """
-    
+
     def area(self):
         """Area of self"""
         raise Exception("area() is not implemented")
