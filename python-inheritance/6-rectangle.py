@@ -22,5 +22,5 @@ class BaseGeometry:
         """initialization of objects"""
         self.__width = width
         self.__height = height
-        integer_validator(self.__width)
-        integer_validator(self.__height)
+        super().integer_validator("width", width)
+        super().integer_validator("height", height)
