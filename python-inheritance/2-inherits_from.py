@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-function that determines if object is instance of specific class
-"""
+"""function that determines if object is instance of specific class"""
 
 
 def inherits_from(obj, a_class):
