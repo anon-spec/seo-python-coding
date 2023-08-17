@@ -19,6 +19,7 @@ class BaseGeometry:
             raise ValueError("{} must be greater than 0".format(name))
     
     def __init__(self, width, height):
+        """initialization of objects"""
         self.__width = width
         self.__height = height
         integer_validator(self.__width)
