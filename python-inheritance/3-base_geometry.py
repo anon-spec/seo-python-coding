@@ -8,4 +8,4 @@ def BaseGeometry:
     """
     empty
     """
-    pass
+    return
