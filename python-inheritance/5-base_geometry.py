@@ -1,11 +1,9 @@
 #!/usr/bin/python3
-"""
-function for empty class BaseGeometry
-"""
+"""function for  class BaseGeometry"""
 
 
 class BaseGeometry:
-    """ empty """
+    """ finds area and value of shape """
     def area(self):
         """Area of self"""
         raise Exception("area() is not implemented")
