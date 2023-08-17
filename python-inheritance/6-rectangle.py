@@ -18,6 +18,7 @@ class BaseGeometry:
         elif value <= 0:
             raise ValueError("{} must be greater than 0".format(name))
 
+
 class Rectangle(BaseGeometry):
     """Subclass inherited from BaseGeometry"""
 
