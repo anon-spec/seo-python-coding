@@ -1,6 +1,9 @@
-#!/usr/bin/python3
-"""function for empty class BaseGeometry"""   
+#!/usr/bin/python3                                                                                                                         
+"""                                                                                                                                        
+function for empty class BaseGeometry                                                                                                      
+"""                                                                                                                                        
 
 
-def BaseGeometry:
+class BaseGeometry:                                                                                                                          
+    """ empty """                                                                                                                          
     pass
