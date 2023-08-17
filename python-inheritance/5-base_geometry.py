@@ -1,11 +1,5 @@
 #!/usr/bin/python3
-"""
-
-
-MODULE DOCSTRING
-
-
-"""
+"""MODULE DOCSTRING"""
 
 
 class BaseGeometry:
