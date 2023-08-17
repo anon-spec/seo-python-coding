@@ -4,6 +4,6 @@ function that determines if object is instance of a class that is inherited
 """
 
 
-def BaseGeometry():
+def BaseGeometry:
     """empty class"""
     pass
