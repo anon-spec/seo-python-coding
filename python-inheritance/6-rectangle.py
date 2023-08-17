@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""MODULE DOCSTRING"""
+
+
 class Rectangle(BaseGeometry):
     """Subclass inherited from BaseGeometry"""
     def __init__(self, width, height):
