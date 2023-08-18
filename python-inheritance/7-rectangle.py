@@ -29,12 +29,10 @@ class Rectangle(BaseGeometry):
         self.__width = width
         self.__height = height
 
-    def area():
+    def area(self):
         """Solving area of Rectangle"""
         return self.__width * self.__height
 
     def str(self):
         """Printing String"""
-        a = str(self.__width)
-        b = str(self.__height)
-        return "[Rectangle]" + a + "/" + b
+        return "[Rectangle] {}/{}".format(width, height)
