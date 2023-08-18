@@ -20,7 +20,7 @@ class BaseGeometry:
 
 
 class Rectangle(BaseGeometry):
-"""Subclass inherited from BaseGeometry"""
+    """Subclass inherited from BaseGeometry"""
 
     def __init__(self, width, height):
         """initialization of objects"""
