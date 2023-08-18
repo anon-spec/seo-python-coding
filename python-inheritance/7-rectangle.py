@@ -39,4 +39,4 @@ class Rectangle(BaseGeometry):
 
     def print(self):
         """Printing String"""
-        print("[Rectangle] {}/{}".format(width, height))
+        print("[Rectangle] {:d}/{:d}".format(width, height))
